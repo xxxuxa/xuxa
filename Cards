@@ -1,0 +1,4418 @@
+[
+  {
+    "name": "Disciplinas Gêmeas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO012.png"
+  },
+  {
+    "name": "Disciplina da Determinação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO012T2.png"
+  },
+  {
+    "name": "Disciplina da Força",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO012T1.png"
+  },
+  {
+    "name": "Yasuo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO015.png"
+  },
+  {
+    "name": "Yasuo (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO015T1.png"
+  },
+  {
+    "name": "Tempestade de Aço de Yasuo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO015T2.png"
+  },
+  {
+    "name": "Guardiã das Máscaras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO020.png"
+  },
+  {
+    "name": "Arauto da Primavera",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO045.png"
+  },
+  {
+    "name": "Fada das Lâminas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO008.png"
+  },
+  {
+    "name": "Lâmina Vital Kinkou",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO040.png"
+  },
+  {
+    "name": "Karma",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO041.png"
+  },
+  {
+    "name": "Karma (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO041T1.png"
+  },
+  {
+    "name": "Perspicácia das Eras de Karma",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO041T2.png"
+  },
+  {
+    "name": "Retorno",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO011.png"
+  },
+  {
+    "name": "Zed",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO009.png"
+  },
+  {
+    "name": "Zed (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO009T2.png"
+  },
+  {
+    "name": "Sombra Distorcida de Zed",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO009T3.png"
+  },
+  {
+    "name": "Sombra Viva",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO009T1.png"
+  },
+  {
+    "name": "Ancião da Clareira Verdejante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO014.png"
+  },
+  {
+    "name": "Poro Parrudo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO005.png"
+  },
+  {
+    "name": "Conspirador Navori",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO044.png"
+  },
+  {
+    "name": "Protetora Adornada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO023.png"
+  },
+  {
+    "name": "Sementes Semeadas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO029.png"
+  },
+  {
+    "name": "Marca Fatal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO003.png"
+  },
+  {
+    "name": "Irrupção Sombria",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO047.png"
+  },
+  {
+    "name": "Mentor Inspirador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO026.png"
+  },
+  {
+    "name": "Alvorada e Crepúsculo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO024.png"
+  },
+  {
+    "name": "Escamossauro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO028.png"
+  },
+  {
+    "name": "Assassina das Sombras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO057.png"
+  },
+  {
+    "name": "Shen",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO032.png"
+  },
+  {
+    "name": "Shen (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO032T1.png"
+  },
+  {
+    "name": "Manter a União de Shen",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO032T2.png"
+  },
+  {
+    "name": "Demônio da Sombra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO013.png"
+  },
+  {
+    "name": "Ímpeto",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO018.png"
+  },
+  {
+    "name": "Yone, o Perseguidor de Ventos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO056.png"
+  },
+  {
+    "name": "Golpes Abruptos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO056T1.png"
+  },
+  {
+    "name": "Sábio do Zéfiro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO016.png"
+  },
+  {
+    "name": "Vigia da Clareira Verdejante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO036.png"
+  },
+  {
+    "name": "Minah Pés Ligeiros",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO033.png"
+  },
+  {
+    "name": "Ritual de Renovação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO001.png"
+  },
+  {
+    "name": "Manter a União",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO010.png"
+  },
+  {
+    "name": "Fantasma",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO022.png"
+  },
+  {
+    "name": "Cria do Vento",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO021.png"
+  },
+  {
+    "name": "Perspicácia das Eras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO054.png"
+  },
+  {
+    "name": "Vidente Taciturna",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO027.png"
+  },
+  {
+    "name": "Sorvedor de Nuvens",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO031.png"
+  },
+  {
+    "name": "Vontade de Ionia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO002.png"
+  },
+  {
+    "name": "Ataques Elevados",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO033T1.png"
+  },
+  {
+    "name": "Batedor Navori",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO017.png"
+  },
+  {
+    "name": "Aluno em Treinamento",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO042.png"
+  },
+  {
+    "name": "Dupla da Clareira Verdejante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO006.png"
+  },
+  {
+    "name": "Desbravadora Kinkou",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO050.png"
+  },
+  {
+    "name": "Yusari",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO048.png"
+  },
+  {
+    "name": "Ren Lâmina Sombria",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO007.png"
+  },
+  {
+    "name": "Evocador Esmeralda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO053.png"
+  },
+  {
+    "name": "Poção de Vida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO004.png"
+  },
+  {
+    "name": "Negação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO049.png"
+  },
+  {
+    "name": "Salteador Navori",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO052.png"
+  },
+  {
+    "name": "Brigante Navori",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO052T1.png"
+  },
+  {
+    "name": "O Empíreo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO030.png"
+  },
+  {
+    "name": "Defensora da Clareira Verdejante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO019.png"
+  },
+  {
+    "name": "Tempestade de Aço",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO046.png"
+  },
+  {
+    "name": "Refúgio Espiritual",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO037.png"
+  },
+  {
+    "name": "Moldador de Rios",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO043.png"
+  },
+  {
+    "name": "Monja Solitária",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO038.png"
+  },
+  {
+    "name": "Sombra Distorcida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO039.png"
+  },
+  {
+    "name": "Guardião de Ki",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01IO055.png"
+  },
+  {
+    "name": "Draven",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX020.png"
+  },
+  {
+    "name": "Draven (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX020T3.png"
+  },
+  {
+    "name": "Reta da Morte de Draven",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX020T2.png"
+  },
+  {
+    "name": "Revolução do Machado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX020T1.png"
+  },
+  {
+    "name": "Vladimir",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX006.png"
+  },
+  {
+    "name": "Pacto Vermelho",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX006T4.png"
+  },
+  {
+    "name": "Vladimir (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX006T1.png"
+  },
+  {
+    "name": "Transfusão de Vladimir",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX006T3.png"
+  },
+  {
+    "name": "Golpe Expurgante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX004.png"
+  },
+  {
+    "name": "Curador Carmesim",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX048.png"
+  },
+  {
+    "name": "Darius",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX038.png"
+  },
+  {
+    "name": "Anfitriã Aracnídea",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX023.png"
+  },
+  {
+    "name": "Estratégia Decisiva",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX013.png"
+  },
+  {
+    "name": "Vigia Aracnídea",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX046.png"
+  },
+  {
+    "name": "Mordida Paralisante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX046T1.png"
+  },
+  {
+    "name": "Transfusão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX047.png"
+  },
+  {
+    "name": "Sabotadora da Legião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX040.png"
+  },
+  {
+    "name": "Darius (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX038T2.png"
+  },
+  {
+    "name": "Dizimar de Darius",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX038T1.png"
+  },
+  {
+    "name": "Laço Fraterno",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX025.png"
+  },
+  {
+    "name": "Aranha Doméstica",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX055.png"
+  },
+  {
+    "name": "Discípula Carmesim",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX030.png"
+  },
+  {
+    "name": "Apresentador da Arena",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX007.png"
+  },
+  {
+    "name": "Saqueador da Legião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX021.png"
+  },
+  {
+    "name": "Favorito do Público",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX009.png"
+  },
+  {
+    "name": "Reta da Morte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX011.png"
+  },
+  {
+    "name": "Desafio",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX053.png"
+  },
+  {
+    "name": "Sabotagem",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX040T1.png"
+  },
+  {
+    "name": "Rugido Intimidante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX054.png"
+  },
+  {
+    "name": "Veterano da Legião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX029.png"
+  },
+  {
+    "name": "Shiraza, a Lâmina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX014.png"
+  },
+  {
+    "name": "Katarina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX042.png"
+  },
+  {
+    "name": "Katarina (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX042T2.png"
+  },
+  {
+    "name": "Lótus da Morte de Katarina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX042T1.png"
+  },
+  {
+    "name": "Capitão Farron",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX051.png"
+  },
+  {
+    "name": "Retaguarda da Legião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX012.png"
+  },
+  {
+    "name": "Fio da Lâmina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX043.png"
+  },
+  {
+    "name": "Granadeiro da Legião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX037.png"
+  },
+  {
+    "name": "General da Legião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX010.png"
+  },
+  {
+    "name": "Percussionista da Legião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX017.png"
+  },
+  {
+    "name": "Agente de Apostas da Arena",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX003.png"
+  },
+  {
+    "name": "Visão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX039.png"
+  },
+  {
+    "name": "Quebra-escudos Trifariano",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX041.png"
+  },
+  {
+    "name": "Desafiador Minotauro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX036.png"
+  },
+  {
+    "name": "Aríete",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX044.png"
+  },
+  {
+    "name": "Aristocrata Carmesim",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX005.png"
+  },
+  {
+    "name": "Aspirante a Trifariano",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX016.png"
+  },
+  {
+    "name": "Poder",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX019.png"
+  },
+  {
+    "name": "Cria Preciosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX015.png"
+  },
+  {
+    "name": "Lótus da Morte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX050.png"
+  },
+  {
+    "name": "Shunpo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX056.png"
+  },
+  {
+    "name": "Avaliadora Trifariana",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX033.png"
+  },
+  {
+    "name": "Sangue por Sangue",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX052.png"
+  },
+  {
+    "name": "Desafiador Selvagem",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX045.png"
+  },
+  {
+    "name": "Trifariana Ambiciosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX031.png"
+  },
+  {
+    "name": "Dizimar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX002.png"
+  },
+  {
+    "name": "Basilisqueiro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX008.png"
+  },
+  {
+    "name": "Poro Carinhoso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX034.png"
+  },
+  {
+    "name": "Fã Número 1 do Draven",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX035.png"
+  },
+  {
+    "name": "Trifariano Imprudente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX026.png"
+  },
+  {
+    "name": "Elixir da Ira",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX027.png"
+  },
+  {
+    "name": "Guilhotina de Noxus",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX022.png"
+  },
+  {
+    "name": "Evocador Carmesim",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX032.png"
+  },
+  {
+    "name": "Kato, o Braço",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX024.png"
+  },
+  {
+    "name": "Astúcia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01NX049.png"
+  },
+  {
+    "name": "Oradores da Alvorada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE031.png"
+  },
+  {
+    "name": "Lucian",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE022.png"
+  },
+  {
+    "name": "Mobilizando",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE019.png"
+  },
+  {
+    "name": "Lux",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE042.png"
+  },
+  {
+    "name": "Barreira Prismática de Lux",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE042T1.png"
+  },
+  {
+    "name": "Lux (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE042T2.png"
+  },
+  {
+    "name": "Centelha Final",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE042T3.png"
+  },
+  {
+    "name": "Lanceiro de Rapina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE010.png"
+  },
+  {
+    "name": "Defensor da Vanguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE020.png"
+  },
+  {
+    "name": "Ferreiro de Batalha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE034.png"
+  },
+  {
+    "name": "Tianna Stemmaguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE002.png"
+  },
+  {
+    "name": "Garen",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE012.png"
+  },
+  {
+    "name": "Garen (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE012T1.png"
+  },
+  {
+    "name": "Julgamento de Garen",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE012T2.png"
+  },
+  {
+    "name": "Guerreiro Solitário",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE017.png"
+  },
+  {
+    "name": "Fiora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE045.png"
+  },
+  {
+    "name": "Formação Aciária",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE052.png"
+  },
+  {
+    "name": "Perseguição Implacável",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE021.png"
+  },
+  {
+    "name": "Perseguição Implacável de Lucian",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE022T2.png"
+  },
+  {
+    "name": "Lucian (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE022T1.png"
+  },
+  {
+    "name": "Deter",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE025.png"
+  },
+  {
+    "name": "Julgamento",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE007.png"
+  },
+  {
+    "name": "Duelista dos Laurent",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE055.png"
+  },
+  {
+    "name": "Instigador dos Caçadores de Magos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE048.png"
+  },
+  {
+    "name": "Porta-Estandarte da Vanguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE001.png"
+  },
+  {
+    "name": "Chefs de Guerra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE043.png"
+  },
+  {
+    "name": "Poro Valente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE049.png"
+  },
+  {
+    "name": "Cavaleiro dos Laurent",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE053.png"
+  },
+  {
+    "name": "Em Memória",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE033.png"
+  },
+  {
+    "name": "Fiora (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE045T1.png"
+  },
+  {
+    "name": "Ripostar de Fiora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE045T2.png"
+  },
+  {
+    "name": "Valor Redobrado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE044.png"
+  },
+  {
+    "name": "Tutor dos Caçadores de Magos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE024.png"
+  },
+  {
+    "name": "Vanguarda de Rapinas Prateadas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE004.png"
+  },
+  {
+    "name": "Protegido dos Laurent",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE011.png"
+  },
+  {
+    "name": "Sucessão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE047.png"
+  },
+  {
+    "name": "Vigia da Vanguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE046.png"
+  },
+  {
+    "name": "Purificar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE050.png"
+  },
+  {
+    "name": "Vanguarda Destemida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE016.png"
+  },
+  {
+    "name": "Doutrinador dos Caçadores de Magos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE040.png"
+  },
+  {
+    "name": "Escudeira da Vanguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE036.png"
+  },
+  {
+    "name": "Ripostar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE037.png"
+  },
+  {
+    "name": "Reforços",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE014.png"
+  },
+  {
+    "name": "Guardiã Radiante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE015.png"
+  },
+  {
+    "name": "Espadeiro dos Laurent",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE003.png"
+  },
+  {
+    "name": "Combate Individual",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE026.png"
+  },
+  {
+    "name": "Barreira Prismática",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE032.png"
+  },
+  {
+    "name": "En Garde",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE027.png"
+  },
+  {
+    "name": "Sargento da Vanguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE006.png"
+  },
+  {
+    "name": "Senna, Sentinela da Luz",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE038.png"
+  },
+  {
+    "name": "Lado a Lado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE041.png"
+  },
+  {
+    "name": "Por Demacia!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE035.png"
+  },
+  {
+    "name": "Golpe Radiante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE018.png"
+  },
+  {
+    "name": "Protetora Aciária",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE009.png"
+  },
+  {
+    "name": "Cithria de Campinuvem",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE039.png"
+  },
+  {
+    "name": "Primeira-Espada da Vanguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE056.png"
+  },
+  {
+    "name": "Plumageiro Rastreador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE029.png"
+  },
+  {
+    "name": "Cavalaria da Vanguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE028.png"
+  },
+  {
+    "name": "Cota de Malha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE013.png"
+  },
+  {
+    "name": "Investigadora dos Caçadores de Magos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE023.png"
+  },
+  {
+    "name": "Cithria, a Audaciosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE051.png"
+  },
+  {
+    "name": "Redentora da Vanguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE054.png"
+  },
+  {
+    "name": "Precursora de Rapina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01DE030.png"
+  },
+  {
+    "name": "Jinx",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ040.png"
+  },
+  {
+    "name": "Anime-se! de Jinx",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ040T3.png"
+  },
+  {
+    "name": "Super Mega Míssil da Morte!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ040T2.png"
+  },
+  {
+    "name": "Jinx (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ040T1.png"
+  },
+  {
+    "name": "Teemo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ008.png"
+  },
+  {
+    "name": "Teemo (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ008T2.png"
+  },
+  {
+    "name": "Nuvem de Cogumelos de Teemo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ008T1.png"
+  },
+  {
+    "name": "Heimerdinger",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056.png"
+  },
+  {
+    "name": "Experimentador Aprimorado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ013.png"
+  },
+  {
+    "name": "Carro Alegórico",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ007.png"
+  },
+  {
+    "name": "Heimerdinger (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T10.png"
+  },
+  {
+    "name": "Mk2: Torre Evolutiva",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T7.png"
+  },
+  {
+    "name": "Mk4: Lança-tormentas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T9.png"
+  },
+  {
+    "name": "Dia do Progresso! de Heimerdinger",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T3.png"
+  },
+  {
+    "name": "Mk3: Torre Apex",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T8.png"
+  },
+  {
+    "name": "Mk5: Propulsor de Foguetes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T2.png"
+  },
+  {
+    "name": "Mk7: Esmagador Blindado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T5.png"
+  },
+  {
+    "name": "Mk0: Triturador de Corda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T1.png"
+  },
+  {
+    "name": "Mk1: Robô Assistente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T4.png"
+  },
+  {
+    "name": "Mk6: Devastador de Piso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ056T6.png"
+  },
+  {
+    "name": "Prodígio da Academia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ018.png"
+  },
+  {
+    "name": "Aprendiz Dedicado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ019.png"
+  },
+  {
+    "name": "Comerciante de Cogumelos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ025.png"
+  },
+  {
+    "name": "Corina Veraza",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ048.png"
+  },
+  {
+    "name": "Obra-prima",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ048T1.png"
+  },
+  {
+    "name": "Sucatonguejo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ032.png"
+  },
+  {
+    "name": "T-Hex",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ015.png"
+  },
+  {
+    "name": "Cogumelo Venenoso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ022.png"
+  },
+  {
+    "name": "Gambiarra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ028.png"
+  },
+  {
+    "name": "Feitiço do Poder Crescente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ050.png"
+  },
+  {
+    "name": "Bombardeiro Novato",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ054.png"
+  },
+  {
+    "name": "Solapar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ054T1.png"
+  },
+  {
+    "name": "Indivíduo Suspeito",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ030.png"
+  },
+  {
+    "name": "Personificar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ030T1.png"
+  },
+  {
+    "name": "Vendedor de Barris Usados",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ017.png"
+  },
+  {
+    "name": "Draga do Sumidouro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ038.png"
+  },
+  {
+    "name": "Ezreal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ036.png"
+  },
+  {
+    "name": "Ezreal (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ036T1.png"
+  },
+  {
+    "name": "Disparo Místico de Ezreal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ036T2.png"
+  },
+  {
+    "name": "Jae Madarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ035.png"
+  },
+  {
+    "name": "Nuvem de Cogumelos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ010.png"
+  },
+  {
+    "name": "Pedinte Zaunita",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ045.png"
+  },
+  {
+    "name": "Pesquisa Imprudente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ013T1.png"
+  },
+  {
+    "name": "Barman do Beco",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ002.png"
+  },
+  {
+    "name": "Barragem Incendiária",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ004.png"
+  },
+  {
+    "name": "Poro Audacioso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ020.png"
+  },
+  {
+    "name": "Cópias Falsificadas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ046.png"
+  },
+  {
+    "name": "Disparo Místico",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ052.png"
+  },
+  {
+    "name": "Buscando a Purrrfeição",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ033.png"
+  },
+  {
+    "name": "Gatástrofe",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ033T1.png"
+  },
+  {
+    "name": "Transmogulador Hextec",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ005.png"
+  },
+  {
+    "name": "Capangas de Midenstokke",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ021.png"
+  },
+  {
+    "name": "Choque de Statikk",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ031.png"
+  },
+  {
+    "name": "Esmagobô Dourado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ059.png"
+  },
+  {
+    "name": "Remexida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ001.png"
+  },
+  {
+    "name": "Montagem de Sucata",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ057.png"
+  },
+  {
+    "name": "Raio Termogênico",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ027.png"
+  },
+  {
+    "name": "Acadêmica Astuta",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ055.png"
+  },
+  {
+    "name": "Inovação Não Licenciada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ014.png"
+  },
+  {
+    "name": "Catador do Sumidouro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ034.png"
+  },
+  {
+    "name": "Engenhoca Ilegal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ014T1.png"
+  },
+  {
+    "name": "Purrrfeição Acelerada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ060.png"
+  },
+  {
+    "name": "Robô de Montagem",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ003.png"
+  },
+  {
+    "name": "Detonador Quimiopunk",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ044.png"
+  },
+  {
+    "name": "Benfeitor Ilustre",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ029.png"
+  },
+  {
+    "name": "Malucânica",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ051.png"
+  },
+  {
+    "name": "Derrete-Caras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ044T2.png"
+  },
+  {
+    "name": "Professor Von Yipp",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ023.png"
+  },
+  {
+    "name": "Volticista Instável",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ024.png"
+  },
+  {
+    "name": "Dia do Progresso!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ049.png"
+  },
+  {
+    "name": "Guardião da Praça",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ006.png"
+  },
+  {
+    "name": "Bando de Raxinins",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ053.png"
+  },
+  {
+    "name": "Mordidinha Flamejante!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ012.png"
+  },
+  {
+    "name": "Anime-se!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ039.png"
+  },
+  {
+    "name": "Faísca de Genialidade",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ016.png"
+  },
+  {
+    "name": "Raxinim Grandona",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ058.png"
+  },
+  {
+    "name": "Aeronauta Amador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ009.png"
+  },
+  {
+    "name": "Marinheira Intrépida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ042.png"
+  },
+  {
+    "name": "Mapa do Sumidouro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ026.png"
+  },
+  {
+    "name": "Ladrão Quimiopunk",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ043.png"
+  },
+  {
+    "name": "Barril Cáustico",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01PZ047.png"
+  },
+  {
+    "name": "Anivia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR024.png"
+  },
+  {
+    "name": "Tempestade Glacial",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR024T2.png"
+  },
+  {
+    "name": "Ventos Rigorosos de Anivia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR024T1.png"
+  },
+  {
+    "name": "Anivia (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR024T3.png"
+  },
+  {
+    "name": "Tempestade Glacial",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR024T5.png"
+  },
+  {
+    "name": "Ovonivia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR024T4.png"
+  },
+  {
+    "name": "Tryndamere",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR039.png"
+  },
+  {
+    "name": "Fúria da Batalha de Tryndamere",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR039T1.png"
+  },
+  {
+    "name": "Tryndamere (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR039T2.png"
+  },
+  {
+    "name": "Legado Glacinata",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR006.png"
+  },
+  {
+    "name": "Falcão dos Presságios",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR022.png"
+  },
+  {
+    "name": "Ventos Rigorosos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR042.png"
+  },
+  {
+    "name": "Braum",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR009.png"
+  },
+  {
+    "name": "Lobo das Glacipresas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR018.png"
+  },
+  {
+    "name": "Atirador Avarosiano",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR036.png"
+  },
+  {
+    "name": "Steffen, Tano das Cicatrizes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR045.png"
+  },
+  {
+    "name": "Poro Solitário",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR008.png"
+  },
+  {
+    "name": "Poro Radiante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR008T1.png"
+  },
+  {
+    "name": "Estraçalhar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR055.png"
+  },
+  {
+    "name": "Ashe",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR038.png"
+  },
+  {
+    "name": "Flecha de Cristal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR038T3.png"
+  },
+  {
+    "name": "Ashe (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR038T2.png"
+  },
+  {
+    "name": "Lampejo Congelado de Ashe",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR038T1.png"
+  },
+  {
+    "name": "Súplica",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR029.png"
+  },
+  {
+    "name": "Rapinadora Incólume",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR035.png"
+  },
+  {
+    "name": "Yeti Enfurecido",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR028.png"
+  },
+  {
+    "name": "Avalanche",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR020.png"
+  },
+  {
+    "name": "Filhote de Yeti",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR014.png"
+  },
+  {
+    "name": "Lobo Espreitador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR049.png"
+  },
+  {
+    "name": "Batedores Avarosianos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR037.png"
+  },
+  {
+    "name": "Braum (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR009T1.png"
+  },
+  {
+    "name": "Tenha Coragem de Braum",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR009T2.png"
+  },
+  {
+    "name": "Garreroz Alfa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR026.png"
+  },
+  {
+    "name": "Aço Quebradiço",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR030.png"
+  },
+  {
+    "name": "Vrynna, Mãe das Cicatrizes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR013.png"
+  },
+  {
+    "name": "Sopro Invernal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR019.png"
+  },
+  {
+    "name": "Guarda Termestre Avarosiano ",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR041.png"
+  },
+  {
+    "name": "Pastor de Poros",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR025.png"
+  },
+  {
+    "name": "Rapinadora Cicatrizela",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR054.png"
+  },
+  {
+    "name": "Tarkaz, o Desgarrado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR021.png"
+  },
+  {
+    "name": "Fúria de Tarkaz",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR021T1.png"
+  },
+  {
+    "name": "Coração da Fofuteia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR043.png"
+  },
+  {
+    "name": "Lebre da Neve",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR049T1.png"
+  },
+  {
+    "name": "Pedras Destinadas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR033.png"
+  },
+  {
+    "name": "Arqueiro do Vale de Gelo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR011.png"
+  },
+  {
+    "name": "Taverneiro Gentil",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR050.png"
+  },
+  {
+    "name": "Aquela que Vaga",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR052.png"
+  },
+  {
+    "name": "Visão Dolorosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR052T1.png"
+  },
+  {
+    "name": "Poritos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR016.png"
+  },
+  {
+    "name": "Fúria da Batalha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR005.png"
+  },
+  {
+    "name": "Chamado da Mãe de Guerra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR023.png"
+  },
+  {
+    "name": "Místico Selvagem",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR047.png"
+  },
+  {
+    "name": "Yeti Gélido",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR056.png"
+  },
+  {
+    "name": "Elnuk Bovino",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR027.png"
+  },
+  {
+    "name": "Mentalidade de Bando",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR057.png"
+  },
+  {
+    "name": "Elixir de Ferro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR004.png"
+  },
+  {
+    "name": "Armadilheiro Avarosiano",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR048.png"
+  },
+  {
+    "name": "Tropa de Elnuks",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR017.png"
+  },
+  {
+    "name": "Tenha Coragem",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR046.png"
+  },
+  {
+    "name": "Catalisador das Eras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR012.png"
+  },
+  {
+    "name": "Xamã das Glacipresas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR040.png"
+  },
+  {
+    "name": "Yeti Ancestral",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR031.png"
+  },
+  {
+    "name": "Tiro Certeiro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR036T1.png"
+  },
+  {
+    "name": "Poro Poderoso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR053.png"
+  },
+  {
+    "name": "Pacto dos Jurados de Sangue",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR010.png"
+  },
+  {
+    "name": "Lampejo Congelado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR001.png"
+  },
+  {
+    "name": "Fofuteia de Poros",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR043T1.png"
+  },
+  {
+    "name": "Vidente Constelado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR032.png"
+  },
+  {
+    "name": "Contos Fantásticos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR051.png"
+  },
+  {
+    "name": "Aqueles que Perduram",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR034.png"
+  },
+  {
+    "name": "Bjerg Balbuciador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR007.png"
+  },
+  {
+    "name": "Vigilante Avarosiano",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01FR003.png"
+  },
+  {
+    "name": "Fantasma Travessa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI038.png"
+  },
+  {
+    "name": "Vislumbre do Além",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI049.png"
+  },
+  {
+    "name": "Elise",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI053.png"
+  },
+  {
+    "name": "Sensação Rastejante de Elise",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI053T1.png"
+  },
+  {
+    "name": "Elise, a Aranha Rainha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI053T2.png"
+  },
+  {
+    "name": "Crocólito Ancestral",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI057.png"
+  },
+  {
+    "name": "Pastora de Almas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI023.png"
+  },
+  {
+    "name": "Massacre das Sombras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI010.png"
+  },
+  {
+    "name": "Hecarim",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI042.png"
+  },
+  {
+    "name": "Hecarim (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI042T1.png"
+  },
+  {
+    "name": "Massacre das Sombras de Hecarim",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI042T2.png"
+  },
+  {
+    "name": "Oferendas Frescas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI027.png"
+  },
+  {
+    "name": "Maldíbula",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI027T1.png"
+  },
+  {
+    "name": "Guardião Amaldiçoado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI048.png"
+  },
+  {
+    "name": "Escriba das Lamentações",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI018.png"
+  },
+  {
+    "name": "Kalista",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI030.png"
+  },
+  {
+    "name": "Kalista (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI030T2.png"
+  },
+  {
+    "name": "Lança Negra de Kalista",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI030T1.png"
+  },
+  {
+    "name": "Rhasa, o Ruptor",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI035.png"
+  },
+  {
+    "name": "Colheita Noturna",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI035T1.png"
+  },
+  {
+    "name": "Cria Aracnídea",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI002.png"
+  },
+  {
+    "name": "Cavaleiro Espectral",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI024.png"
+  },
+  {
+    "name": "Crustageist",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI005.png"
+  },
+  {
+    "name": "Poro Sinistro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI037.png"
+  },
+  {
+    "name": "Aberração Liberta",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI048T1.png"
+  },
+  {
+    "name": "Thresh",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI052.png"
+  },
+  {
+    "name": "Comandante Ledros",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI033.png"
+  },
+  {
+    "name": "O Tormento",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI003.png"
+  },
+  {
+    "name": "O Imortal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI041.png"
+  },
+  {
+    "name": "Absorção de Alma",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI045.png"
+  },
+  {
+    "name": "Sensação Rastejante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI036.png"
+  },
+  {
+    "name": "Prodígio Atormentado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI051.png"
+  },
+  {
+    "name": "Pescador Distraído",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI012.png"
+  },
+  {
+    "name": "A Caixa de Thresh",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI052T2.png"
+  },
+  {
+    "name": "Thresh (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI052T1.png"
+  },
+  {
+    "name": "Precursor de Ferro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI031.png"
+  },
+  {
+    "name": "Lança Negra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI034.png"
+  },
+  {
+    "name": "Aristocrata Azarado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI043.png"
+  },
+  {
+    "name": "Espíritos Agitados",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI009.png"
+  },
+  {
+    "name": "Relíquia Assombrada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI007.png"
+  },
+  {
+    "name": "Espírito Libertado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI007T1.png"
+  },
+  {
+    "name": "Predadora Desenfreada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI056.png"
+  },
+  {
+    "name": "Vingança",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI001.png"
+  },
+  {
+    "name": "A Caixa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI019.png"
+  },
+  {
+    "name": "Espectro da Névoa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI014.png"
+  },
+  {
+    "name": "Marca das Ilhas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI022.png"
+  },
+  {
+    "name": "Possessão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI006.png"
+  },
+  {
+    "name": "Espada de Ledros",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI033T1.png"
+  },
+  {
+    "name": "Alma Dividida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI028.png"
+  },
+  {
+    "name": "Atrocidade",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI025.png"
+  },
+  {
+    "name": "Açougueiro Voraz",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI011.png"
+  },
+  {
+    "name": "Chamado da Névoa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI046.png"
+  },
+  {
+    "name": "Despertar da Ninhada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI050.png"
+  },
+  {
+    "name": "Evocadora de Espectros",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI016.png"
+  },
+  {
+    "name": "Carruagem de Tubarões",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI021.png"
+  },
+  {
+    "name": "Cronista da Ruína",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI032.png"
+  },
+  {
+    "name": "Mensageiro Etéreo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI058.png"
+  },
+  {
+    "name": "Aperto dos Mortos-Vivos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI054.png"
+  },
+  {
+    "name": "Matrona Espectral",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI044.png"
+  },
+  {
+    "name": "Terror Aracnídeo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI039.png"
+  },
+  {
+    "name": "O Reacendedor",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI020.png"
+  },
+  {
+    "name": "Lamento Fulminante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI029.png"
+  },
+  {
+    "name": "Perdição das Águas Sombrias",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI004.png"
+  },
+  {
+    "name": "Presa do Guardião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI026.png"
+  },
+  {
+    "name": "Banquete Cruel",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI040.png"
+  },
+  {
+    "name": "A Ruína",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI015.png"
+  },
+  {
+    "name": "Devora-Almas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI055.png"
+  },
+  {
+    "name": "Memórias Evanescentes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/01SI047.png"
+  },
+  {
+    "name": "Submiaurino",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ001.png"
+  },
+  {
+    "name": "Investigador Veterano",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ010.png"
+  },
+  {
+    "name": "Te peguei!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ006.png"
+  },
+  {
+    "name": "Quebra-Cofres",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ004.png"
+  },
+  {
+    "name": "Investigadora Perspicaz",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ007.png"
+  },
+  {
+    "name": "Mecânica Chefe Zevi",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ002.png"
+  },
+  {
+    "name": "Vi",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ008.png"
+  },
+  {
+    "name": "Rastro Suspeito",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ009.png"
+  },
+  {
+    "name": "Equipando!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ003.png"
+  },
+  {
+    "name": "Vi (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ008T2.png"
+  },
+  {
+    "name": "Quebra-Cofres de Vi",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ008T1.png"
+  },
+  {
+    "name": "Vigias da Ronda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02PZ005.png"
+  },
+  {
+    "name": "Artilharia Cascuda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW040.png"
+  },
+  {
+    "name": "Mergulhador Evasivo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW057.png"
+  },
+  {
+    "name": "A Fera Submarina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW041.png"
+  },
+  {
+    "name": "Degoladora à Espreita",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW013.png"
+  },
+  {
+    "name": "Estátua de Macaco",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW034.png"
+  },
+  {
+    "name": "Miquinho Explosivo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW034T1.png"
+  },
+  {
+    "name": "Devorador das Profundezas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW056.png"
+  },
+  {
+    "name": "Devorar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW056T1.png"
+  },
+  {
+    "name": "Corsária Atiradora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW060.png"
+  },
+  {
+    "name": "Yordle Vigarista",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW011.png"
+  },
+  {
+    "name": "Colecionadora de Naufrágios",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW030.png"
+  },
+  {
+    "name": "Quebra-quilha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW030T2.png"
+  },
+  {
+    "name": "Arca do Tesouro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW030T1.png"
+  },
+  {
+    "name": "Platewyrm Feroz",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW030T4.png"
+  },
+  {
+    "name": "Ovo de Platewyrm",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW030T3.png"
+  },
+  {
+    "name": "Bolhurso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW019.png"
+  },
+  {
+    "name": "Apostadora Audaciosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW007.png"
+  },
+  {
+    "name": "Criaturas Coralinas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW014.png"
+  },
+  {
+    "name": "Capataz Farpada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW055.png"
+  },
+  {
+    "name": "Caixeiro Cítrico",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW017.png"
+  },
+  {
+    "name": "Zap Nadajato",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW038.png"
+  },
+  {
+    "name": "Caçador de Escamâminas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW021.png"
+  },
+  {
+    "name": "Xerife Lariette Rose",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW035.png"
+  },
+  {
+    "name": "Carniceiro Farpado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW058.png"
+  },
+  {
+    "name": "Rex Correnteza",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW028.png"
+  },
+  {
+    "name": "Barragem de Canhão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW028T1.png"
+  },
+  {
+    "name": "Olho Abissal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW037.png"
+  },
+  {
+    "name": "Suboficial",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW008.png"
+  },
+  {
+    "name": "Catadores de Refugo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW047.png"
+  },
+  {
+    "name": "Ajudante do Apavorador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW004.png"
+  },
+  {
+    "name": "O Apavorador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW002.png"
+  },
+  {
+    "name": "Cassinobô",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW016.png"
+  },
+  {
+    "name": "Frota Caçadora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW027.png"
+  },
+  {
+    "name": "Solista Serena",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW050.png"
+  },
+  {
+    "name": "A Sereia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW015.png"
+  },
+  {
+    "name": "Poro Saqueador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW010.png"
+  },
+  {
+    "name": "Malandro da Sinuca",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW009.png"
+  },
+  {
+    "name": "Assassina de Aluguel",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW005.png"
+  },
+  {
+    "name": "Caçadores de Peixe-Jaula",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW039.png"
+  },
+  {
+    "name": "Mágico Mistificador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW006.png"
+  },
+  {
+    "name": "Narval Dourado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW036.png"
+  },
+  {
+    "name": "Mercador Clandestino",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW033.png"
+  },
+  {
+    "name": "Tiro Preciso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW060T1.png"
+  },
+  {
+    "name": "Gangplank",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW032.png"
+  },
+  {
+    "name": "Negociarrr de Gangplank",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW032T2.png"
+  },
+  {
+    "name": "Gangplank (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW032T3.png"
+  },
+  {
+    "name": "Barril de Pólvora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW032T1.png"
+  },
+  {
+    "name": "Explosão Polvorosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW032T4.png"
+  },
+  {
+    "name": "Miss Fortune",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW022.png"
+  },
+  {
+    "name": "Chuva de Disparos de Miss Fortune",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW022T3.png"
+  },
+  {
+    "name": "Miss Fortune (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW022T2.png"
+  },
+  {
+    "name": "Metendo Bala",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW022T4.png"
+  },
+  {
+    "name": "Batida do Amor",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW022T1.png"
+  },
+  {
+    "name": "Fizz",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW046.png"
+  },
+  {
+    "name": "Fizz (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW046T3.png"
+  },
+  {
+    "name": "Dentão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW046T2.png"
+  },
+  {
+    "name": "Trapaceiro Brincalhão de Fizz",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW046T1.png"
+  },
+  {
+    "name": "Twisted Fate",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW026.png"
+  },
+  {
+    "name": "Carta Dourada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW026T5.png"
+  },
+  {
+    "name": "Twisted Fate (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW026T3.png"
+  },
+  {
+    "name": "Escolha uma Carta de Twisted Fate",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW026T1.png"
+  },
+  {
+    "name": "Carta Azul",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW026T2.png"
+  },
+  {
+    "name": "Carta Vermelha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW026T4.png"
+  },
+  {
+    "name": "Nautilus",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW053.png"
+  },
+  {
+    "name": "Correnteza de Nautilus",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW053T2.png"
+  },
+  {
+    "name": "Nautilus (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW053T1.png"
+  },
+  {
+    "name": "Par de Ases",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW061.png"
+  },
+  {
+    "name": "Encrenca em Dobro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW024.png"
+  },
+  {
+    "name": "Coação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW003.png"
+  },
+  {
+    "name": "Lançar Isca",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW025.png"
+  },
+  {
+    "name": "Mais Pólvora!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW012.png"
+  },
+  {
+    "name": "Negociarrr",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW018.png"
+  },
+  {
+    "name": "Fugitivo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW048.png"
+  },
+  {
+    "name": "Escolha uma Carta",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW043.png"
+  },
+  {
+    "name": "Trapaceiro Brincalhão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW051.png"
+  },
+  {
+    "name": "Correnteza",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW054.png"
+  },
+  {
+    "name": "Elo Mental",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW042.png"
+  },
+  {
+    "name": "Saraivada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW059.png"
+  },
+  {
+    "name": "Isca das Profundezas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW023.png"
+  },
+  {
+    "name": "Dois por Um",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW031.png"
+  },
+  {
+    "name": "Recuperação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW029.png"
+  },
+  {
+    "name": "Produtos Surrupiados",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW049.png"
+  },
+  {
+    "name": "Tá Avisado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW001.png"
+  },
+  {
+    "name": "Truque de Mão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW063.png"
+  },
+  {
+    "name": "Chuva de Disparos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW045.png"
+  },
+  {
+    "name": "Tiro de Aviso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW020.png"
+  },
+  {
+    "name": "Rejeitar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW044.png"
+  },
+  {
+    "name": "Navegadora Nativa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02BW062.png"
+  },
+  {
+    "name": "Guerreira Lupina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR009.png"
+  },
+  {
+    "name": "Pegando Friagem",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR004.png"
+  },
+  {
+    "name": "Sejuani",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR002.png"
+  },
+  {
+    "name": "Guerreira Incandescente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR001.png"
+  },
+  {
+    "name": "Ursine Caminhalma",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR005.png"
+  },
+  {
+    "name": "Ursine Tempesgarra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR005T1.png"
+  },
+  {
+    "name": "Despojos Divididos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR010.png"
+  },
+  {
+    "name": "A Colmilhadora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR008.png"
+  },
+  {
+    "name": "Fúria do Norte de Sejuani",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR002T1.png"
+  },
+  {
+    "name": "Sejuani (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR002T3.png"
+  },
+  {
+    "name": "Fúria do Norte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR007.png"
+  },
+  {
+    "name": "Guerreira Impiedosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR006.png"
+  },
+  {
+    "name": "Aurora Poreal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02FR003.png"
+  },
+  {
+    "name": "O Leviatã",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX001.png"
+  },
+  {
+    "name": "Swain",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX007.png"
+  },
+  {
+    "name": "Swain (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX007T2.png"
+  },
+  {
+    "name": "Bando Voraz de Swain",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX007T1.png"
+  },
+  {
+    "name": "Devasta-Cidades",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX006.png"
+  },
+  {
+    "name": "Aurok Chifreluzente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX002.png"
+  },
+  {
+    "name": "Bando Voraz",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX009.png"
+  },
+  {
+    "name": "Demolidora Imperial",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX004.png"
+  },
+  {
+    "name": "Fervor Noxiano",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX003.png"
+  },
+  {
+    "name": "Montapresa Encouraçado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX010.png"
+  },
+  {
+    "name": "Granada de Pólvora Negra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX004T1.png"
+  },
+  {
+    "name": "Mão da Morte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX008.png"
+  },
+  {
+    "name": "Balista de Ferro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02NX005.png"
+  },
+  {
+    "name": "Texurso Leal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE003.png"
+  },
+  {
+    "name": "Companheiro Chifrídeo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE008.png"
+  },
+  {
+    "name": "Guardião da Presa Verde",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE004.png"
+  },
+  {
+    "name": "Quinn",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE006.png"
+  },
+  {
+    "name": "Investida Anuviante de Quinn",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE006T3.png"
+  },
+  {
+    "name": "Valor",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE006T2.png"
+  },
+  {
+    "name": "Quinn (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE006T1.png"
+  },
+  {
+    "name": "Guarda Grisalho",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE009.png"
+  },
+  {
+    "name": "Espírito Inflexível",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE005.png"
+  },
+  {
+    "name": "Investida Anuviante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE002.png"
+  },
+  {
+    "name": "Genevieve Cordielmo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE010.png"
+  },
+  {
+    "name": "Determinação Guardiã",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE007.png"
+  },
+  {
+    "name": "Golpe Orquestrado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02DE001.png"
+  },
+  {
+    "name": "Seiva Mágica",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI005.png"
+  },
+  {
+    "name": "Florimorta Errante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI010.png"
+  },
+  {
+    "name": "Maokai",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI008.png"
+  },
+  {
+    "name": "Muda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI008T3.png"
+  },
+  {
+    "name": "Seiva Mágica de Maokai",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI008T1.png"
+  },
+  {
+    "name": "Maokai (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI008T2.png"
+  },
+  {
+    "name": "Sapo Espinhoso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI007.png"
+  },
+  {
+    "name": "Terror das Marés",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI003.png"
+  },
+  {
+    "name": "Colecionador da Nunclareira",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI001.png"
+  },
+  {
+    "name": "Videira Vigorosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI002.png"
+  },
+  {
+    "name": "Defensora Arruinada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI004.png"
+  },
+  {
+    "name": "Fera da Casca",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI006.png"
+  },
+  {
+    "name": "Atirar Mudas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02SI009.png"
+  },
+  {
+    "name": "Onda Sônica",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO008.png"
+  },
+  {
+    "name": "Ataque Ressonante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO008T1.png"
+  },
+  {
+    "name": "Cauda do Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO005T1.png"
+  },
+  {
+    "name": "Escamas do Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO002.png"
+  },
+  {
+    "name": "Proteção do Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO002T1.png"
+  },
+  {
+    "name": "Lee Sin",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO006.png"
+  },
+  {
+    "name": "Onda Sônica de Lee Sin",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO011.png"
+  },
+  {
+    "name": "Lee Sin (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO006T1.png"
+  },
+  {
+    "name": "Fúria do Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO006T3.png"
+  },
+  {
+    "name": "Chifres do Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO004.png"
+  },
+  {
+    "name": "Olho do Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO003.png"
+  },
+  {
+    "name": "Garras do Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO001.png"
+  },
+  {
+    "name": "Dragonito",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO003T1.png"
+  },
+  {
+    "name": "Palma Concussiva",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO005.png"
+  },
+  {
+    "name": "Retirada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO010.png"
+  },
+  {
+    "name": "Fúria do Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO007.png"
+  },
+  {
+    "name": "Revide",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO010T1.png"
+  },
+  {
+    "name": "Meditação Profunda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/02IO009.png"
+  },
+  {
+    "name": "Caça aos Fracos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX019.png"
+  },
+  {
+    "name": "Garras Selvagens",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX022.png"
+  },
+  {
+    "name": "Riven",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX007.png"
+  },
+  {
+    "name": "Fragmento de Lâmina Firme",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX008.png"
+  },
+  {
+    "name": "Punho de Arma de Riven",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX007T3.png"
+  },
+  {
+    "name": "Lâmina do Exílio",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX011.png"
+  },
+  {
+    "name": "Fragmento de Lâmina Cortante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX010.png"
+  },
+  {
+    "name": "Riven (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX007T1.png"
+  },
+  {
+    "name": "Fragmento de Lâmina Reluzente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX012.png"
+  },
+  {
+    "name": "Punho de Arma",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX006.png"
+  },
+  {
+    "name": "Arrel, a Rastreadora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX002.png"
+  },
+  {
+    "name": "Apreender",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX018.png"
+  },
+  {
+    "name": "Cavaleira Colérica",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX009.png"
+  },
+  {
+    "name": "Basilisqueiro Sanguinário",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX017.png"
+  },
+  {
+    "name": "Laceração",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX016.png"
+  },
+  {
+    "name": "Técnicas de Sobrevivência",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX015.png"
+  },
+  {
+    "name": "Determinação Afiada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX014.png"
+  },
+  {
+    "name": "Escudeiro da Lâmina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX003.png"
+  },
+  {
+    "name": "Tecelã de Runas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX001.png"
+  },
+  {
+    "name": "Caçadora Brutal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX005.png"
+  },
+  {
+    "name": "Jack, o Vencedor",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW006.png"
+  },
+  {
+    "name": "Rango no Rio",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW010.png"
+  },
+  {
+    "name": "Custos Afundados",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW005.png"
+  },
+  {
+    "name": "Tahm Kench",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW004.png"
+  },
+  {
+    "name": "Um Gosto Adquirido",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW004T2.png"
+  },
+  {
+    "name": "Tahm Kench (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW004T3.png"
+  },
+  {
+    "name": "Rango no Rio de Tahm Kench",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW004T4.png"
+  },
+  {
+    "name": "Lagarto Boêmio",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW002.png"
+  },
+  {
+    "name": "Macacos me Mordam",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW014.png"
+  },
+  {
+    "name": "Polvo Boxeador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW007.png"
+  },
+  {
+    "name": "Durma com os Peixinhos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW006T1.png"
+  },
+  {
+    "name": "Barcobum",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW016.png"
+  },
+  {
+    "name": "Docas da Matança",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW001.png"
+  },
+  {
+    "name": "Senhor Resmunguejo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW015.png"
+  },
+  {
+    "name": "Sabichão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW003.png"
+  },
+  {
+    "name": "Bolheixe Ondulante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW017.png"
+  },
+  {
+    "name": "Rãdivinha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW008.png"
+  },
+  {
+    "name": "Pandemônio Explosivo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW020.png"
+  },
+  {
+    "name": "Extorsão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03BW009.png"
+  },
+  {
+    "name": "A Grande Praça",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE010.png"
+  },
+  {
+    "name": "Caminhos Divergentes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT005.png"
+  },
+  {
+    "name": "O Abismo Uivante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR009.png"
+  },
+  {
+    "name": "Criptas de Helia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI009.png"
+  },
+  {
+    "name": "Nascente Estelar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT052.png"
+  },
+  {
+    "name": "Monastério de Hirana",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO006.png"
+  },
+  {
+    "name": "Santuário",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO016.png"
+  },
+  {
+    "name": "Terra Abrasada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX013.png"
+  },
+  {
+    "name": "Arena de Noxkraya",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03NX004.png"
+  },
+  {
+    "name": "Caminho da Destruição",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT005T2.png"
+  },
+  {
+    "name": "Caminho da Descoberta",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT005T1.png"
+  },
+  {
+    "name": "Capitã Arrika",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE004.png"
+  },
+  {
+    "name": "Reivindicação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE004T1.png"
+  },
+  {
+    "name": "Volta ao Lar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO005.png"
+  },
+  {
+    "name": "Derrocada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI008.png"
+  },
+  {
+    "name": "Topo do Targon",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT064.png"
+  },
+  {
+    "name": "A Universidade de Piltover",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ001.png"
+  },
+  {
+    "name": "Aquele que Encara",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR003.png"
+  },
+  {
+    "name": "Raio da Extinção",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR003T3.png"
+  },
+  {
+    "name": "Raio da Destruição",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR003T1.png"
+  },
+  {
+    "name": "Pestinha Estelar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT079.png"
+  },
+  {
+    "name": "Contemple o Infinito",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT015.png"
+  },
+  {
+    "name": "O Mensageiro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT018.png"
+  },
+  {
+    "name": "A Serpente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT034.png"
+  },
+  {
+    "name": "A Chama Imortal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT083.png"
+  },
+  {
+    "name": "Prata Lunar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT004.png"
+  },
+  {
+    "name": "O Flagelo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT037.png"
+  },
+  {
+    "name": "A Irmã Dourada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT059.png"
+  },
+  {
+    "name": "Resplendor Lunar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT053.png"
+  },
+  {
+    "name": "Escrito nas Estrelas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT032.png"
+  },
+  {
+    "name": "Supernova",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT024.png"
+  },
+  {
+    "name": "Inspiração Cósmica",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT066.png"
+  },
+  {
+    "name": "Lendas Vivas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT077.png"
+  },
+  {
+    "name": "O Destruidor",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT010.png"
+  },
+  {
+    "name": "Viajante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT070.png"
+  },
+  {
+    "name": "Chuva de Meteoros",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT049.png"
+  },
+  {
+    "name": "Cometa Cadente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT043.png"
+  },
+  {
+    "name": "O Grande Além",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT022.png"
+  },
+  {
+    "name": "Raios Cósmicos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT078.png"
+  },
+  {
+    "name": "Equinócio",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT065.png"
+  },
+  {
+    "name": "O Guerreiro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT050.png"
+  },
+  {
+    "name": "Golpe Crescente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT011.png"
+  },
+  {
+    "name": "O Trapaceiro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT095.png"
+  },
+  {
+    "name": "A Irmã Prateada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT059T1.png"
+  },
+  {
+    "name": "O Acometedor",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT090.png"
+  },
+  {
+    "name": "As Presas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT221.png"
+  },
+  {
+    "name": "Lunari Portadora do Anoitecer",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT073.png"
+  },
+  {
+    "name": "Pólen de Pétala Noturna",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT073T1.png"
+  },
+  {
+    "name": "Aphelios",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT217.png"
+  },
+  {
+    "name": "Crescendum",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT217T10.png"
+  },
+  {
+    "name": "Infernum",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT217T14.png"
+  },
+  {
+    "name": "Presentes do Além de Aphelios",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT217T11.png"
+  },
+  {
+    "name": "Severum",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT217T9.png"
+  },
+  {
+    "name": "Calibrum",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT217T8.png"
+  },
+  {
+    "name": "Aphelios (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT217T13.png"
+  },
+  {
+    "name": "Gravitum",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT217T12.png"
+  },
+  {
+    "name": "Furins Furtivos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT001.png"
+  },
+  {
+    "name": "Protetor Vigoroso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT060.png"
+  },
+  {
+    "name": "Vovô Rumul",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT033.png"
+  },
+  {
+    "name": "O Dividemente Infinito",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT021.png"
+  },
+  {
+    "name": "Diana",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT056.png"
+  },
+  {
+    "name": "Diana (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT056T1.png"
+  },
+  {
+    "name": "Cascata Lívida de Diana",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT056T2.png"
+  },
+  {
+    "name": "Íbex de Cristal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT067.png"
+  },
+  {
+    "name": "Cabra da Montanha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT092.png"
+  },
+  {
+    "name": "Soraka",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT055.png"
+  },
+  {
+    "name": "Soraka (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT055T1.png"
+  },
+  {
+    "name": "Desejo de Soraka",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT055T2.png"
+  },
+  {
+    "name": "Doadora de Dádivas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT048.png"
+  },
+  {
+    "name": "Sonhaluna",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT063.png"
+  },
+  {
+    "name": "Inviolus Vox",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT006.png"
+  },
+  {
+    "name": "Leona",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT054.png"
+  },
+  {
+    "name": "Luz Matinal de Leona",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT054T2.png"
+  },
+  {
+    "name": "Labareda Solar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT054T3.png"
+  },
+  {
+    "name": "Leona (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT054T1.png"
+  },
+  {
+    "name": "Arauta dos Dragões",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT014.png"
+  },
+  {
+    "name": "Taric",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT058.png"
+  },
+  {
+    "name": "Vigor Solar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT098.png"
+  },
+  {
+    "name": "Brilhoboleta",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT040.png"
+  },
+  {
+    "name": "Quietude",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT085.png"
+  },
+  {
+    "name": "Travessura",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT001T1.png"
+  },
+  {
+    "name": "A Encruzilhada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT220.png"
+  },
+  {
+    "name": "Sacerdotisa Lunari",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT075.png"
+  },
+  {
+    "name": "Estrelacórnio Resplandecente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT020.png"
+  },
+  {
+    "name": "Viajante Tyari",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT071.png"
+  },
+  {
+    "name": "Os Céus Caem",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT002.png"
+  },
+  {
+    "name": "Zoe",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT009.png"
+  },
+  {
+    "name": "Bolha do Soninho de Zoe",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT009T2.png"
+  },
+  {
+    "name": "Zoe (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT009T1.png"
+  },
+  {
+    "name": "Artista Sonhadora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT086.png"
+  },
+  {
+    "name": "Aurelion Sol",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT087.png"
+  },
+  {
+    "name": "Aurelion Sol (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT087T1.png"
+  },
+  {
+    "name": "Os Céus Caem de Aurelion Sol",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT087T2.png"
+  },
+  {
+    "name": "Bastião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT019.png"
+  },
+  {
+    "name": "O Voo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT214.png"
+  },
+  {
+    "name": "Desolação Lunar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT013.png"
+  },
+  {
+    "name": "Desejo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT008.png"
+  },
+  {
+    "name": "Clarão Solar",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT023.png"
+  },
+  {
+    "name": "Sacerdotisa Solari",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT096.png"
+  },
+  {
+    "name": "Proteção Astral",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT045.png"
+  },
+  {
+    "name": "Guardião da Nascente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT080.png"
+  },
+  {
+    "name": "Dádivas da Nascente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT080T1.png"
+  },
+  {
+    "name": "Roubo Arcano",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT042.png"
+  },
+  {
+    "name": "Forjassol Solari",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT057.png"
+  },
+  {
+    "name": "Constelário Maneiríssimo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT091.png"
+  },
+  {
+    "name": "Guardião do Sol",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT044.png"
+  },
+  {
+    "name": "Mentor das Pedras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT041.png"
+  },
+  {
+    "name": "Escudeira Solari",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT028.png"
+  },
+  {
+    "name": "Marcabrasa Derretida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT072.png"
+  },
+  {
+    "name": "Fragmentos da Montanha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT025.png"
+  },
+  {
+    "name": "Marca do Mensageiro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT017.png"
+  },
+  {
+    "name": "Toque Conselheiro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT051.png"
+  },
+  {
+    "name": "Árbitro do Pico",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT012.png"
+  },
+  {
+    "name": "Lunari Espreitadora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT094.png"
+  },
+  {
+    "name": "Vidente da Montanha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT076.png"
+  },
+  {
+    "name": "Presentes do Além",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT215.png"
+  },
+  {
+    "name": "Dragão do Eclipse",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT100.png"
+  },
+  {
+    "name": "Taric (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT058T1.png"
+  },
+  {
+    "name": "Bênção Targonense de Taric",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT058T2.png"
+  },
+  {
+    "name": "Pastora de Estrelas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT029.png"
+  },
+  {
+    "name": "O Templo Velado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT219.png"
+  },
+  {
+    "name": "Gema",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT092T1.png"
+  },
+  {
+    "name": "Faiscóloga Avoada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT062.png"
+  },
+  {
+    "name": "Luz Matinal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT082.png"
+  },
+  {
+    "name": "Cygnus, o Caçador da Lua",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT047.png"
+  },
+  {
+    "name": "Protetor Chamabranca",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT038.png"
+  },
+  {
+    "name": "Peregrinos da Montanha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT081.png"
+  },
+  {
+    "name": "Estrelacórnio Inexperiente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT007.png"
+  },
+  {
+    "name": "Ataque Celeste",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT220T1.png"
+  },
+  {
+    "name": "Sombras Celestes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT216.png"
+  },
+  {
+    "name": "Rahvun, a Lança da Alvorada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT026.png"
+  },
+  {
+    "name": "Estrela Desviada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT093.png"
+  },
+  {
+    "name": "Out Of The Way",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT110.png"
+  },
+  {
+    "name": "Ninhada de Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT003.png"
+  },
+  {
+    "name": "Contempladora de Estrelas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT030.png"
+  },
+  {
+    "name": "Soldado Solari",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT088.png"
+  },
+  {
+    "name": "Guardiã Crescente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT089.png"
+  },
+  {
+    "name": "Lâmina Zênite",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT027.png"
+  },
+  {
+    "name": "Escrito nas Estrelas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT218.png"
+  },
+  {
+    "name": "Formando Estrelas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT084.png"
+  },
+  {
+    "name": "Esmagador Assustado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT016.png"
+  },
+  {
+    "name": "Bolha do Soninho",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT074.png"
+  },
+  {
+    "name": "Cascata Lívida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT035.png"
+  },
+  {
+    "name": "Ovo Chocado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT003T1.png"
+  },
+  {
+    "name": "Ovo Esmagado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT003T2.png"
+  },
+  {
+    "name": "Bênção Targonense",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT036.png"
+  },
+  {
+    "name": "Poroboleta",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03MT039.png"
+  },
+  {
+    "name": "Porobot Recauchutado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ019.png"
+  },
+  {
+    "name": "Balísticobô",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ005.png"
+  },
+  {
+    "name": "Raio da Morte – Mk 1",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ004.png"
+  },
+  {
+    "name": "Raio da Morte – Mk 3",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ004T2.png"
+  },
+  {
+    "name": "Raio da Morte – Mk 2",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ004T1.png"
+  },
+  {
+    "name": "Viktor",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ003.png"
+  },
+  {
+    "name": "Viktor (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ003T1.png"
+  },
+  {
+    "name": "Raio da Morte de Viktor – Mk 1",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ003T15.png"
+  },
+  {
+    "name": "Aprimoramento de Núcleo Hex",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ003T11.png"
+  },
+  {
+    "name": "Mímica Mecanizada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ010.png"
+  },
+  {
+    "name": "Give It All",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ022.png"
+  },
+  {
+    "name": "Criações Calculadas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ014.png"
+  },
+  {
+    "name": "Melhoria Iterada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ013.png"
+  },
+  {
+    "name": "Teste de Tensão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ025.png"
+  },
+  {
+    "name": "Equipaníaco Armado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ012.png"
+  },
+  {
+    "name": "Fundição de Núcleos Hex",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ020.png"
+  },
+  {
+    "name": "Ignição",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ016.png"
+  },
+  {
+    "name": "Miaudroide",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ002.png"
+  },
+  {
+    "name": "Pós-choque",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ011.png"
+  },
+  {
+    "name": "Improbulador Trivolt",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ017.png"
+  },
+  {
+    "name": "Canhão de Poros",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03PZ018.png"
+  },
+  {
+    "name": "Sombras Perseguidoras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI004.png"
+  },
+  {
+    "name": "Espreitador Eternebroso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI001.png"
+  },
+  {
+    "name": "Gula",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI018.png"
+  },
+  {
+    "name": "Passagem Imerecida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI012.png"
+  },
+  {
+    "name": "Sombras Invasoras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI014.png"
+  },
+  {
+    "name": "Go Hard",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI016.png"
+  },
+  {
+    "name": "Pack Your Bags",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI016T1.png"
+  },
+  {
+    "name": "Proteção das Trevas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI007.png"
+  },
+  {
+    "name": "Névoas Etéreas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI013.png"
+  },
+  {
+    "name": "Nocturne",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI005.png"
+  },
+  {
+    "name": "Horror Indescritível de Nocturne",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI005T3.png"
+  },
+  {
+    "name": "Nocturne (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI005T1.png"
+  },
+  {
+    "name": "Assombrofera",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI006.png"
+  },
+  {
+    "name": "Observador Inoportuno",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI015.png"
+  },
+  {
+    "name": "Suplício",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI006T1.png"
+  },
+  {
+    "name": "Observadora Estígia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI003.png"
+  },
+  {
+    "name": "Horror Indescritível",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI002.png"
+  },
+  {
+    "name": "Cavaleiro do Crepúsculo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03SI010.png"
+  },
+  {
+    "name": "Punhos Pulsantes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO025.png"
+  },
+  {
+    "name": "Pix!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO017.png"
+  },
+  {
+    "name": "Caprichos!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO008.png"
+  },
+  {
+    "name": "Esquilo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO008T1.png"
+  },
+  {
+    "name": "Florzinha de Estimação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO001.png"
+  },
+  {
+    "name": "Determinação Individual",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO019.png"
+  },
+  {
+    "name": "Lulu",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO002.png"
+  },
+  {
+    "name": "Socorro, Pix!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO002T4.png"
+  },
+  {
+    "name": "Caprichos da Lulu!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO002T5.png"
+  },
+  {
+    "name": "Lulu (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO002T1.png"
+  },
+  {
+    "name": "Esquilo Bombado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO011.png"
+  },
+  {
+    "name": "Silfo Saboroso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO009.png"
+  },
+  {
+    "name": "Guia Feérico",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO003.png"
+  },
+  {
+    "name": "Trevor Dorminhão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO007.png"
+  },
+  {
+    "name": "Murmuduende",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO007T1.png"
+  },
+  {
+    "name": "Jovem Bruxa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO010.png"
+  },
+  {
+    "name": "Nananinanão!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO020.png"
+  },
+  {
+    "name": "Go Get It",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO022.png"
+  },
+  {
+    "name": "Cuidador Felpudo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03IO018.png"
+  },
+  {
+    "name": "Tenente da Dracoguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE008.png"
+  },
+  {
+    "name": "Confronto",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE001.png"
+  },
+  {
+    "name": "Supressor Pétreo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE015.png"
+  },
+  {
+    "name": "Dragão Furioso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE006.png"
+  },
+  {
+    "name": "Sopro Ardente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE025.png"
+  },
+  {
+    "name": "Golpe Incansável",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE002.png"
+  },
+  {
+    "name": "Shyvana",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE011.png"
+  },
+  {
+    "name": "Shyvana Dragoa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE011T1.png"
+  },
+  {
+    "name": "Confronto de Shyvana",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE011T2.png"
+  },
+  {
+    "name": "Vigia da Dracoguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE003.png"
+  },
+  {
+    "name": "Matriarca Vigilante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE013.png"
+  },
+  {
+    "name": "Pesquisador Acadêmico",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE005.png"
+  },
+  {
+    "name": "Kadregrin, o Infernal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE007.png"
+  },
+  {
+    "name": "Por Aqueles Que Caíram",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE012.png"
+  },
+  {
+    "name": "Visão Aguçada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03DE014.png"
+  },
+  {
+    "name": "O Lar das Cicatrizes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR020.png"
+  },
+  {
+    "name": "Troll Catador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR007.png"
+  },
+  {
+    "name": "Rugido Revigorante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR004.png"
+  },
+  {
+    "name": "Presságio dos Ancestrais",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR017.png"
+  },
+  {
+    "name": "Trundle",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR006.png"
+  },
+  {
+    "name": "Trundle (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR006T2.png"
+  },
+  {
+    "name": "Terremoto Glacial de Trundle",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR006T3.png"
+  },
+  {
+    "name": "Pilar de Gelo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR006T1.png"
+  },
+  {
+    "name": "Terremoto Glacial",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR008.png"
+  },
+  {
+    "name": "Cântico dos Trolls",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR002.png"
+  },
+  {
+    "name": "Uzgar, o Ancião",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR011.png"
+  },
+  {
+    "name": "Troll Devastadora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR005.png"
+  },
+  {
+    "name": "Convocando a Natureza",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR018.png"
+  },
+  {
+    "name": "Rostos dos Ancestrais",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR010.png"
+  },
+  {
+    "name": "Vozes dos Ancestrais",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR019.png"
+  },
+  {
+    "name": "Dádivas dos Trolls",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR025.png"
+  },
+  {
+    "name": "Feel the Rush",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/03FR022.png"
+  },
+  {
+    "name": "Espeto de Osso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04BW002.png"
+  },
+  {
+    "name": "Arpão de Monstros",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04BW010.png"
+  },
+  {
+    "name": "Dados Viciados",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04BW011.png"
+  },
+  {
+    "name": "Riquezas Perdidas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04BW008.png"
+  },
+  {
+    "name": "Chireano do Sumidouro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04PZ005.png"
+  },
+  {
+    "name": "Rompe-circuitos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04PZ005T2.png"
+  },
+  {
+    "name": "Bando do Sumidouro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04PZ005T1.png"
+  },
+  {
+    "name": "Pico de Produção",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04PZ014.png"
+  },
+  {
+    "name": "Cronologias Simultâneas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04PZ010.png"
+  },
+  {
+    "name": "Adaptatron 3000",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04PZ015.png"
+  },
+  {
+    "name": "Indigno",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH070.png"
+  },
+  {
+    "name": "Fiandeira Baccai",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH081.png"
+  },
+  {
+    "name": "Ritual de Negação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH059T2.png"
+  },
+  {
+    "name": "Ritual de Negação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH059T1.png"
+  },
+  {
+    "name": "Voz dos Reerguidos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH077.png"
+  },
+  {
+    "name": "Naturalista do Deserto",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH089.png"
+  },
+  {
+    "name": "Espírito Adolescente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH089T1.png"
+  },
+  {
+    "name": "Raz Sanguescama",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH015.png"
+  },
+  {
+    "name": "Artífice das Areias",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH058.png"
+  },
+  {
+    "name": "Dia do Pagamento",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH035.png"
+  },
+  {
+    "name": "Preparativos Ancestrais",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH028.png"
+  },
+  {
+    "name": "Ceifeiro Baccai",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH002.png"
+  },
+  {
+    "name": "Pedregurso Hibernado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH042.png"
+  },
+  {
+    "name": "Trituradora Impiedosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH032.png"
+  },
+  {
+    "name": "Exploradora das Ruínas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH055.png"
+  },
+  {
+    "name": "Zilean",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH039.png"
+  },
+  {
+    "name": "Bomba-relógio",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH060T1.png"
+  },
+  {
+    "name": "Alteração Temporal de Zilean",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH039T2.png"
+  },
+  {
+    "name": "Zilean (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH039T1.png"
+  },
+  {
+    "name": "Taliyah",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH073.png"
+  },
+  {
+    "name": "Taliyah (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH073T2.png"
+  },
+  {
+    "name": "Voleio Entrelaçado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH073T1.png"
+  },
+  {
+    "name": "Tecepedras de Taliyah",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH073T3.png"
+  },
+  {
+    "name": "Khahiri, o Aluno",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH091.png"
+  },
+  {
+    "name": "Pináculo de Sal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH024.png"
+  },
+  {
+    "name": "Azir",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003.png"
+  },
+  {
+    "name": "Azir (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T2.png"
+  },
+  {
+    "name": "Azir (nível 3)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T3.png"
+  },
+  {
+    "name": "Combatente de Arenito",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T14.png"
+  },
+  {
+    "name": "Arauto Dourado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T5.png"
+  },
+  {
+    "name": "Surja! de Azir",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T4.png"
+  },
+  {
+    "name": "Palácio do General",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T10.png"
+  },
+  {
+    "name": "Soldado de Areia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T1.png"
+  },
+  {
+    "name": "Gladiador Eterno",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T8.png"
+  },
+  {
+    "name": "Destruição Arenosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T6.png"
+  },
+  {
+    "name": "Tempestade de Areia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T12.png"
+  },
+  {
+    "name": "Guarda do Imperador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T11.png"
+  },
+  {
+    "name": "Miragem Cintilante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T7.png"
+  },
+  {
+    "name": "Chamado dos Ascendentes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T13.png"
+  },
+  {
+    "name": "Prosperidade do Imperador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH003T9.png"
+  },
+  {
+    "name": "Pesquisadoras de Xenótipo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH011.png"
+  },
+  {
+    "name": "Ira do Deserto",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH114.png"
+  },
+  {
+    "name": "Renekton",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH067.png"
+  },
+  {
+    "name": "Renekton (nível 3)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH067T1.png"
+  },
+  {
+    "name": "Renekton (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH067T4.png"
+  },
+  {
+    "name": "Predador Desumano de Renekton",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH067T2.png"
+  },
+  {
+    "name": "Destruição de Dominus",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH067T5.png"
+  },
+  {
+    "name": "Possibilidades Imaginadas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH120.png"
+  },
+  {
+    "name": "Ricochete",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH119.png"
+  },
+  {
+    "name": "Pedra Esculpida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH093.png"
+  },
+  {
+    "name": "Areias Videntes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH079.png"
+  },
+  {
+    "name": "Saltador de Pedras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH038.png"
+  },
+  {
+    "name": "Preservacionista",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH104.png"
+  },
+  {
+    "name": "Surja!",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH099.png"
+  },
+  {
+    "name": "Sacrário Interior",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH048.png"
+  },
+  {
+    "name": "Barganhadora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH056.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098T3.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098T12.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098T7.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098T6.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098T2.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098T10.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098T5.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098T8.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098T1.png"
+  },
+  {
+    "name": "Descoberta de Sorte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH098.png"
+  },
+  {
+    "name": "Sivir",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH020.png"
+  },
+  {
+    "name": "Marechal Inspiradora",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH057.png"
+  },
+  {
+    "name": "Caçadora Implacável",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH103.png"
+  },
+  {
+    "name": "Possibilidades Imaginadas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH120T2.png"
+  },
+  {
+    "name": "Possibilidades Imaginadas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH120T1.png"
+  },
+  {
+    "name": "Areias Instáveis",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH006.png"
+  },
+  {
+    "name": "Estátua de Estase",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH076T1.png"
+  },
+  {
+    "name": "A Mão do Relógio",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH034.png"
+  },
+  {
+    "name": "Século Instantâneo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH034T1.png"
+  },
+  {
+    "name": "Século Instantâneo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH034T2.png"
+  },
+  {
+    "name": "Século Instantâneo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH034T3.png"
+  },
+  {
+    "name": "Caminho Ruinoso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH082.png"
+  },
+  {
+    "name": "Decreto do Imperador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH075.png"
+  },
+  {
+    "name": "Ritual de Dominância",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH018.png"
+  },
+  {
+    "name": "Baccai Enfurecido",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH009.png"
+  },
+  {
+    "name": "Poro Destinado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH049.png"
+  },
+  {
+    "name": "Poro Venerado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH049T1.png"
+  },
+  {
+    "name": "Exaustão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH045.png"
+  },
+  {
+    "name": "Terra Desfiada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH037.png"
+  },
+  {
+    "name": "Glória dos Ascendentes",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH107.png"
+  },
+  {
+    "name": "Nasus",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH047.png"
+  },
+  {
+    "name": "Guardiã do Sacrário",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH097.png"
+  },
+  {
+    "name": "Vigilante das Dunas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH026.png"
+  },
+  {
+    "name": "Embaixadora Dourada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH102.png"
+  },
+  {
+    "name": "Aprendiz de Cronomante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH001.png"
+  },
+  {
+    "name": "Fúria Baccai",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH009T1.png"
+  },
+  {
+    "name": "Alteração Temporal",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH030.png"
+  },
+  {
+    "name": "Preservário",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH013.png"
+  },
+  {
+    "name": "Disco Solar Soterrado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH062.png"
+  },
+  {
+    "name": "Ataque Sifão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH016.png"
+  },
+  {
+    "name": "Lâmina Bumerangue",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH108.png"
+  },
+  {
+    "name": "Tempo Engarrafado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH066.png"
+  },
+  {
+    "name": "Relologi",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH014.png"
+  },
+  {
+    "name": "Ataque Sifão de Nasus",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH047T1.png"
+  },
+  {
+    "name": "Nasus (nível 3)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH047T2.png"
+  },
+  {
+    "name": "Nasus (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH047T3.png"
+  },
+  {
+    "name": "Khahiri, o Regressado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH021.png"
+  },
+  {
+    "name": "Conselheiros Devotos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH101.png"
+  },
+  {
+    "name": "Hierofante Consagrado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH012.png"
+  },
+  {
+    "name": "Ricochete de Sivir",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH020T2.png"
+  },
+  {
+    "name": "Sivir (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH020T1.png"
+  },
+  {
+    "name": "Futuro Promissor",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH031.png"
+  },
+  {
+    "name": "Peso do Julgamento",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH004.png"
+  },
+  {
+    "name": "Ritual de Negação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH059.png"
+  },
+  {
+    "name": "Curador Mecanizado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH044.png"
+  },
+  {
+    "name": "Ampulheta Ancestral",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH076.png"
+  },
+  {
+    "name": "Areias Despertas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH118.png"
+  },
+  {
+    "name": "Profetisa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH072.png"
+  },
+  {
+    "name": "Vigilante do Sai",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH041.png"
+  },
+  {
+    "name": "Saqueador Sanguinário",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH005.png"
+  },
+  {
+    "name": "Quimera de Arenito",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH046.png"
+  },
+  {
+    "name": "Disco Solar Restaurado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH062T1.png"
+  },
+  {
+    "name": "Ritual de Dominância",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH018T2.png"
+  },
+  {
+    "name": "Ritual de Dominância",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH018T1.png"
+  },
+  {
+    "name": "Tumba Arenosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH105.png"
+  },
+  {
+    "name": "Predador Desumano",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH069.png"
+  },
+  {
+    "name": "Ritual de Chamado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH121.png"
+  },
+  {
+    "name": "Ritual de Chamado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH121T1.png"
+  },
+  {
+    "name": "Ritual de Chamado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH121T2.png"
+  },
+  {
+    "name": "Julgamento da Guardiã",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH097T1.png"
+  },
+  {
+    "name": "Tecepedras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH110.png"
+  },
+  {
+    "name": "Palanque do Imperador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH051.png"
+  },
+  {
+    "name": "Fogo Espiritual",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH106.png"
+  },
+  {
+    "name": "Areia Movediça",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH109.png"
+  },
+  {
+    "name": "Pedregurso Ranzinza",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SH090.png"
+  },
+  {
+    "name": "Inquisidor Draklorn",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR006.png"
+  },
+  {
+    "name": "Clausura Gélida",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR012.png"
+  },
+  {
+    "name": "Despojos de Guerra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR016.png"
+  },
+  {
+    "name": "Servo Praeglacius",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR001T1.png"
+  },
+  {
+    "name": "Resistência ao Frio",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR013.png"
+  },
+  {
+    "name": "Lissandra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR005.png"
+  },
+  {
+    "name": "Observador",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR005T4.png"
+  },
+  {
+    "name": "Lissandra (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR005T1.png"
+  },
+  {
+    "name": "Sepultamento de Lissandra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR005T2.png"
+  },
+  {
+    "name": "Sucumba ao Frio",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR011.png"
+  },
+  {
+    "name": "Servo Congelado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR001.png"
+  },
+  {
+    "name": "Sepultamento",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR007.png"
+  },
+  {
+    "name": "Túmulo Congelado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR007T1.png"
+  },
+  {
+    "name": "Dádiva Ancestral",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR017.png"
+  },
+  {
+    "name": "Ravina Arruinada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR014.png"
+  },
+  {
+    "name": "Estilhaço de Gelo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR009.png"
+  },
+  {
+    "name": "Três Irmãs",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04FR010.png"
+  },
+  {
+    "name": "Palavras Sussurradas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX002.png"
+  },
+  {
+    "name": "Espinho da Rosa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX010.png"
+  },
+  {
+    "name": "Negócios Sangrentos",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX015.png"
+  },
+  {
+    "name": "Escamossauro Feroz",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX019.png"
+  },
+  {
+    "name": "Estrategista Indomável",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX008.png"
+  },
+  {
+    "name": "Espiã da Rosa Negra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX006.png"
+  },
+  {
+    "name": "Mímica",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX001.png"
+  },
+  {
+    "name": "LeBlanc",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX004.png"
+  },
+  {
+    "name": "Sigilo de Malícia de LeBlanc",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX004T1.png"
+  },
+  {
+    "name": "Imagem-Espelho",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX005.png"
+  },
+  {
+    "name": "LeBlanc (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX004T2.png"
+  },
+  {
+    "name": "Fiandeira Estridente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX016.png"
+  },
+  {
+    "name": "Sangríneo Carmesim ",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX018.png"
+  },
+  {
+    "name": "Sigilo de Malícia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX003.png"
+  },
+  {
+    "name": "A União Faz a Força",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04NX017.png"
+  },
+  {
+    "name": "Kindred",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI005.png"
+  },
+  {
+    "name": "Jornada Espiritual dos Kindred",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI005T4.png"
+  },
+  {
+    "name": "Kindred (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI005T1.png"
+  },
+  {
+    "name": "Parasita Espiritual",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI016.png"
+  },
+  {
+    "name": "O Demônio Etéreo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI007.png"
+  },
+  {
+    "name": "Escuridão Adentro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI011.png"
+  },
+  {
+    "name": "Escaravelho Marinho",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI015.png"
+  },
+  {
+    "name": "As Asas e a Onda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI004.png"
+  },
+  {
+    "name": "Último Vento",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI004T1.png"
+  },
+  {
+    "name": "Primeira Onda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI004T2.png"
+  },
+  {
+    "name": "Canção das Ilhas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI017.png"
+  },
+  {
+    "name": "Refúgio da Ovelha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI001.png"
+  },
+  {
+    "name": "Fiandeiro de Almas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI009.png"
+  },
+  {
+    "name": "Mãe Mascarada",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI013.png"
+  },
+  {
+    "name": "A Segunda Morte",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI007T3.png"
+  },
+  {
+    "name": "Jornada Espiritual",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI002.png"
+  },
+  {
+    "name": "Ícone Decadente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI003.png"
+  },
+  {
+    "name": "Presa",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04SI014.png"
+  },
+  {
+    "name": "Olho dos Ra-Horak",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT014.png"
+  },
+  {
+    "name": "Malphite",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT008.png"
+  },
+  {
+    "name": "Malphite (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT008T1.png"
+  },
+  {
+    "name": "Força Incontrolável",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT008T4.png"
+  },
+  {
+    "name": "Estrondar Terreno de Malphite",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT008T5.png"
+  },
+  {
+    "name": "Pico Pontestrelado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT010.png"
+  },
+  {
+    "name": "Lasquinha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT005.png"
+  },
+  {
+    "name": "Escadas Espiraladas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT009.png"
+  },
+  {
+    "name": "Semente de Força",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT009T1.png"
+  },
+  {
+    "name": "Trilha do Desabamento",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT001.png"
+  },
+  {
+    "name": "Azuporã",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT004.png"
+  },
+  {
+    "name": "Ignifalco Solari",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT013.png"
+  },
+  {
+    "name": "Elemental da Terra",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT003.png"
+  },
+  {
+    "name": "Insígnia de Perspicácia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT004T1.png"
+  },
+  {
+    "name": "Quebra-pedras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT002.png"
+  },
+  {
+    "name": "Convocação do Destino",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT012.png"
+  },
+  {
+    "name": "Estrondar Terreno ",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT007.png"
+  },
+  {
+    "name": "Penacho Ofuscante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT013T1.png"
+  },
+  {
+    "name": "Terra Trêmula",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04MT002T2.png"
+  },
+  {
+    "name": "Irelia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO005.png"
+  },
+  {
+    "name": "Surto da Lâmina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO005T4.png"
+  },
+  {
+    "name": "Lâmina da Vanguarda de Irelia",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO005T1.png"
+  },
+  {
+    "name": "Irelia (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO005T2.png"
+  },
+  {
+    "name": "Dueto Impecável",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO005T5.png"
+  },
+  {
+    "name": "Lâmina Florescente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO004.png"
+  },
+  {
+    "name": "Lâmina da Vanguarda",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO003.png"
+  },
+  {
+    "name": "Gotinha Dançante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO015.png"
+  },
+  {
+    "name": "Aprendiz das Sombras",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO014.png"
+  },
+  {
+    "name": "Zinneia, Crescendo de Aço",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO002.png"
+  },
+  {
+    "name": "Lâmina",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO010.png"
+  },
+  {
+    "name": "Sincopação",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO007.png"
+  },
+  {
+    "name": "Conduzir e Seguir",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO011.png"
+  },
+  {
+    "name": "Sombras do Passado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO012.png"
+  },
+  {
+    "name": "Dançarina das Fitas",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO009.png"
+  },
+  {
+    "name": "Músicos de Batalha",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO001.png"
+  },
+  {
+    "name": "Defensor Costeiro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04IO006.png"
+  },
+  {
+    "name": "Rastreadora Fervente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE004.png"
+  },
+  {
+    "name": "Lanchinho de Dragão",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE014.png"
+  },
+  {
+    "name": "Lorde Honroso",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE001.png"
+  },
+  {
+    "name": "Cataclisma",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE003.png"
+  },
+  {
+    "name": "Égide de Ouro",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE002.png"
+  },
+  {
+    "name": "Destreza em Campo",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE006.png"
+  },
+  {
+    "name": "Estandarte Desgastado",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE007T1.png"
+  },
+  {
+    "name": "Jarvan IV",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE008.png"
+  },
+  {
+    "name": "Jarvan IV (nível 2)",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE008T1.png"
+  },
+  {
+    "name": "Cataclisma de Jarvan IV",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE008T2.png"
+  },
+  {
+    "name": "Cithria, Dama das Nuvens",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE005.png"
+  },
+  {
+    "name": "Rei Jarvan III",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE010.png"
+  },
+  {
+    "name": "Petricórnio Imponente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE013.png"
+  },
+  {
+    "name": "Escudeira Penitente",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE007.png"
+  },
+  {
+    "name": "Cavaleiro Galante",
+    "image": "https://escolaruneterra.com.br/wp-content/uploads/cards/img/pt_br/04DE009.png"
+  }
+]
